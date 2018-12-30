@@ -37,7 +37,7 @@ Follow the steps as shown in the video
 * Click on the image to view the complete video
 
 
-[![GNS3 Demo](https://i.ytimg.com/vi/3z6yK7SWnk4/maxresdefault.jpg)](https://youtu.be/59sDKKqp2P4)
+[![GNS3 Demo](https://i.ytimg.com/vi/3z6yK7SWnk4/maxresdefault.jpg)](https://youtu.be/3z6yK7SWnk4)
 
 
 ## Authors
